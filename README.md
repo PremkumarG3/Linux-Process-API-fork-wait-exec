@@ -118,7 +118,22 @@ int main() {
 
 
 
+
+
+
+
+
+
+
+
+
 # RESULT:
 The programs are executed successfully.
+
+
+
+
+
+
 
 
