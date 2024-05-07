@@ -114,5 +114,11 @@ int main() {
 ## OUTPUT
 ![execcheck](https://github.com/PremkumarG3/Linux-Process-API-fork-wait-exec/assets/138955646/fdb52c15-a3c8-4c4b-bb8b-e367e7668b2e)
 
+
+
+
+
 # RESULT:
 The programs are executed successfully.
+
+
